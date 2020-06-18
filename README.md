@@ -11,11 +11,8 @@ If you want a `.dll` (dynamically linked):
 ```sh
 $ tcc -O3 -Iinclude -Isrc -shared -o openlibm.dll src/*.c
 ```
-***
 
 The original README is attached below.
-***
-
 
 ## OpenLibm
 
